@@ -1,0 +1,57 @@
+.contenedor1{
+	max-height: 100%;
+	height:690px;
+	position: relative;
+	margin: 0 auto;
+	padding: 5%;
+	background-image: url(img2/fondo.jpg);
+	background-size: contain; 
+}
+.superior{
+	height: 250px;
+	margin-top: -55px;
+}
+.contenedor{
+	height: 100%;
+}
+.medio{
+	height: 415px
+}
+.user{
+	height: 69%;
+	width: 40%;
+	float: left;
+    margin-left:2%;
+    margin-top: 8%;
+    background-size: 100% 100%;
+
+}
+.contenedor_pc{
+	height: 69%;
+	width: 40%;
+	float: right;
+    margin-right:2%;
+    margin-top: 8%;
+    background-size: 100% 100%;
+}
+.selector{
+	width: 100%;
+    height: 100%;
+    margin: 0;
+    border-radius: 21%;
+    background-color: #1E6CF4;
+    font-size: 61px;
+    color: rgba(47, 255, 199, 0.83);
+}
+#piedra{
+	background-image: url(img2/piedra.jpg);
+	background-size: 100% 100%;
+}
+#papel{
+	background-image: url(img2/papel.jpg);
+	background-size: 100% 100%;
+}
+#tijera{
+	background-image: url(img2/tijera.jpg);
+	background-size: 100% 100%;
+}
